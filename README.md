@@ -1,46 +1,401 @@
-# Hi 👋, I'm Xiao Louie
-### 💻 Favorite IDEs
+<div align="center">
 
-![VS Code](https://shields.io)
-![Visual Studio](https://shields.io)
-![IntelliJ IDEA](https://shields.io)
-![Android Studio](https://shields.io)
-![Neovim](https://shields.io)
-![Sublime Text](https://shields.io)
-![Xcode](https://shields.io)
-![PyCharm](https://shields.io)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=200&section=header&text=XIAO%20LOUIE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBER%20SECURITY%20%E2%80%A2%20C%2FC%2B%2B%20%E2%80%A2%20CREATOR&descAlignY=58&descSize=18" width="100%"/>
 
-### A cyber security and C++ developer
+# 👋 Hey, I'm **Xiao Louie**
 
-- 🔭 I'm currently working on **A drone project**
+### 🐧 Cyber Security • 💻 C/C++ Developer • 🚀 Creator
 
-- 🌱 I'm currently learning **C/C++, Java, JS, Rust, Golang, C#,...**
+<a href="https://github.com/EDORA-AGENT">
+<img src="https://img.shields.io/badge/GitHub-EDORA--AGENT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://codeforces.com/profile/Xiao_Louie">
+<img src="https://img.shields.io/badge/Codeforces-Xiao__Louie-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="https://app.hackthebox.com/users/3902808?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111"/>
+</a>
+<a href="https://lkoj.edu.vn/user/k39w_haquangthang">
+<img src="https://img.shields.io/badge/LKOJ-Profile-7C3AED?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+</a>
 
-- 👯 I'm looking to collaborate on **none**
+<br><br>
 
-- 🤝 I'm looking for help with **none**
+<img src="https://komarev.com/ghpvc/?username=EDORA-AGENT&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
-- 💬 Ask me about **C/C++**
+</div>
 
-- 📫 How to reach me **haquangthang56@gmail.com**
+---
 
-- ⚡ Fun fact **I love anime =)**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at **[https://cau-ca-van-can.web.app](https://cau-ca-van-can.web.app)**
+## ⌨️ `Initializing Xiao Louie...`
 
-- 📝 I regularly write articles on **[https://cau-ca-van-can.web.app](https://cau-ca-van-can.web.app)**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;C%2FC%2B%2B+Developer;Competitive+Programming;Linux+%26+Systems;CTF+%40+Hack+The+Box;Pok%C3%A9mon+%2B+Anime+Enjoyer;Building+%E2%80%A2+Learning+%E2%80%A2+Exploring" alt="Typing SVG"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/EDORA-AGENT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="EDORA-AGENT" height="30" width="40" /></a>
-<a href="https://fb.com/ha.thang.721967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ha.thang.721967" height="30" width="40" /></a>
-<a href="https://youtube.com/@EDORA_Chuyen_R0BL0X_RIVAL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@EDORA_Chuyen_R0BL0X_RIVAL" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Xiao_Louie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Xiao_Louie" height="30" width="40" /></a>
-<a href="https://discord.gg/1364423212603019345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1364423212603019345" height="30" width="40" /></a>
+</div>
+
+---
+
+# 🧠 `whoami`
+
+> **"Code. Create. Explore. Repeat."**
+
+I'm **Xiao Louie**, a developer & creator interested in **Cyber Security, C/C++, systems, AI, Linux and technology**.
+
+```text
+┌──────────────────────────────────────────────┐
+│  Xiao Louie                                  │
+├──────────────────────────────────────────────┤
+│  💻 Main language     → C / C++              │
+│  🔐 Focus             → Cyber Security       │
+│  🐧 Environment       → Linux                │
+│  🛡️ Platform          → Hack The Box         │
+│  🏆 Competitive       → Codeforces / LKOJ   │
+│  🚀 Current project   → Drone Project        │
+│  🎨 Hobby             → Anime & Creativity   │
+└──────────────────────────────────────────────┘
+```
+
+### ⚡ Current Status
+
+* 🔭 Working on **A Drone Project**
+* 🌱 Learning **C/C++, Java, JavaScript, Rust, Go, C# & more**
+* 💬 Ask me about **C/C++**
+* 🎯 Exploring **Cyber Security, CTF & Systems**
+* 🐧 Linux enthusiast
+* ⚡ Fun fact: **I love anime =)**
+
+---
+
+# 🖥️ Terminal
+
+```text
+╭────────────────────────────────────────────────────╮
+│  xiao@edora ~ $ whoami                              │
+╰────────────────────────────────────────────────────╯
+
+> Xiao Louie
+
+xiao@edora ~ $ cat interests.txt
+
+[+] Cyber Security
+[+] C / C++
+[+] Competitive Programming
+[+] Linux
+[+] AI / Computer Vision
+[+] Pokémon
+[+] Anime
+
+xiao@edora ~ $ ./life
+
+[████████████████████████████████████████] 100%
+
+STATUS: ONLINE
+MISSION: KEEP LEARNING
+```
+---
+
+## 🛠️ Favorite IDEs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="Code::Blocks"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/apachecordova" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/apachecordova/E8E8E8" alt="apachecordova" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cypress" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cypress" alt="cypress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hexo" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hexo/0E83CD" alt="hexo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ifttt" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ifttt" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ionic" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jasmine" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mlflow" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mocha" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nativescript" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/nativescript/3655FF" alt="nativescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/objectivec" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=apple" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/openresty" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="openresty" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/realm" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/realm/realm-original.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scala" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scala" alt="scala" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xamarin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+<p align="center">
+  💙 <b>Visual Studio Code</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🟦 <b>Code::Blocks</b>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EDORA-AGENT&" alt="EDORA-AGENT" /></p>
+> ✨ My go-to IDEs for coding, debugging and building projects.
 
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://cau-ca-van-can.web.app">
+<img src="https://img.shields.io/badge/🌐%20PROJECTS-Visit%20Website-5865F2?style=for-the-badge"/>
+</a>
+
+<a href="https://cau-ca-van-can.web.app">
+<img src="https://img.shields.io/badge/📝%20ARTICLES-Read%20Articles-00A67E?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br>
+
+<details>
+<summary>🔍 <b>Click to explore projects</b></summary>
+
+```text
+🚧 Projects
+│
+├── 🛸 Drone Project
+├── 💻 C/C++ Projects
+├── 🔐 Cyber Security
+├── 🌐 Web Applications
+├── 🤖 AI / Computer Vision
+└── 🎮 Creative Projects
+```
+
+</details>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,go,rust,kotlin,swift,dart,py&perline=11"/>
+
+### 🌐 Web & Frameworks
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nuxtjs,nodejs,fastapi,flutter,electron&perline=9"/>
+
+### ☁️ Cloud • DevOps • Database
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,nginx,firebase,mongodb,mysql,postgres,redis,sqlite&perline=11"/>
+
+### 🤖 AI • Data • Computer Vision
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda&perline=5"/>
+
+### 🎨 Creative
+
+<img src="https://skillicons.dev/icons?i=blender,figma,ps,ai,xd,unity,unreal&perline=7"/>
+
+### 🐧 Tools
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,arduino,matlab,jupyter&perline=6"/>
+
+</div>
+
+---
+
+# 🔐 Cyber Security
+
+<div align="center">
+
+<a href="https://app.hackthebox.com/users/3902808">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-3902808-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111"/>
+</a>
+
+<img src="https://img.shields.io/badge/Cyber%20Security-111827?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+
+<br><br>
+
+<a href="https://app.hackthebox.com/users/3902808?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">
+<img src="https://www.hackthebox.com/badge/image/3902808" alt="Hack The Box Profile"/>
+</a>
+
+</div>
+
+```text
+             ╔══════════════════════════╗
+             ║     SECURITY MODE: ON    ║
+             ╠══════════════════════════╣
+             ║  > analyze               ║
+             ║  > learn                 ║
+             ║  > build                 ║
+             ║  > secure                ║
+             ╚══════════════════════════╝
+```
+
+---
+
+# 🏆 Competitive Programming
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/Xiao_Louie">
+<img src="https://img.shields.io/badge/Codeforces-Xiao__Louie-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://lkoj.edu.vn/user/k39w_haquangthang">
+<img src="https://img.shields.io/badge/LKOJ-k39w__haquangthang-7C3AED?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+```text
+┌──────────────────────────────────────────┐
+│         COMPETITIVE MODE: ON             │
+├──────────────────────────────────────────┤
+│  🧠 Think                               │
+│  💻 Code                                │
+│  🧪 Test                                │
+│  ⚔️ Debug                               │
+│  🏆 Submit                              │
+└──────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"/>
+
+</div>
+
+
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EDORA-AGENT&theme=tokyo-night&hide_border=true"
+  width="100%"
+  alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EDORA-AGENT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+  width="100%"
+  alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EDORA-AGENT&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDORA-AGENT&layout=compact&hide_border=true&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EDORA-AGENT&hide_border=true&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌿 Pokémon Corner
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/908.png"
+  width="230"
+  alt="Meowscarada"/>
+
+### 🌿 **Meowscarada**
+
+### 💚 My Favorite Pokémon
+
+> *A little bit of code, a little bit of chaos, and a lot of Meowscarada.*
+
+</div>
+
+---
+
+# 🌸 Liko
+
+<div align="center">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRay_UKgF5ysHbccLOoGd8Ba8KirY13snw_3dXN0GVGugoDfizjvLki1I&s=10"
+  width="220"
+  alt="Liko"/>
+
+### 💜 **Liko**
+
+> *Pokémon Horizons — one of my favorite characters.*
+
+</div>
+
+---
+
+# 🎬 Favorite Film
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎬%20Favorite%20Film-Pokémon-FFCB05?style=for-the-badge&logo=pokemon&logoColor=3B4CCA"/>
+
+<br><br>
+
+### ⚡ **Pokémon**
+
+**Pokémon Horizons** • **Pokémon Movies** • **Pokémon Universe**
+
+> *Gotta code 'em all!* ⚡
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/EDORA-AGENT">
+<img src="https://img.shields.io/badge/GitHub-EDORA--AGENT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://fb.com/ha.thang.721967">
+<img src="https://img.shields.io/badge/Facebook-ha.thang.721967-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@EDORA_Chuyen_R0BL0X_RIVAL">
+<img src="https://img.shields.io/badge/YouTube-EDORA-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/Xiao_Louie">
+<img src="https://img.shields.io/badge/Codeforces-Xiao__Louie-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://app.hackthebox.com/users/3902808">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111"/>
+</a>
+
+<a href="https://lkoj.edu.vn/user/k39w_haquangthang">
+<img src="https://img.shields.io/badge/LKOJ-Profile-7C3AED?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/1364423212603019345">
+<img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ `CODE • CREATE • EXPLORE • REPEAT`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=140&section=footer&animation=twinkling"/>
+
+**Thanks for visiting my profile! ❤️**
+
+<br>
+
+<img src="https://img.shields.io/badge/EDORA%20STUDIO-ONLINE-06B6D4?style=for-the-badge"/>
+
+</div>
