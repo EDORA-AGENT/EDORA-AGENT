@@ -382,7 +382,7 @@ alt="Liko"/>
 <img src="https://img.shields.io/badge/LKOJ-Profile-7C3AED?style=for-the-badge"/>
 </a>
 
-<a href="https://discord.gg/1364423212603019345">
+<a href="https://discord.gg/UKt5VZkP">
 <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
