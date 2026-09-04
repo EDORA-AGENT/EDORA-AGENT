@@ -12,7 +12,7 @@
 <a href="https://codeforces.com/profile/Xiao_Louie">
 <img src="https://img.shields.io/badge/Codeforces-Xiao__Louie-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-<a href="https://app.hackthebox.com/users/3902808?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">
+<a href="https://app.hackthebox.com/users/3902808">
 <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111"/>
 </a>
 <a href="https://lkoj.edu.vn/user/k39w_haquangthang">
@@ -37,7 +37,7 @@
 
 ---
 
-# 🧠 `whoami`
+## 🧠 `whoami`
 
 > **"Code. Create. Explore. Repeat."**
 
@@ -51,7 +51,7 @@ I'm **Xiao Louie**, a developer & creator interested in **Cyber Security, C/C++,
 │  🔐 Focus             → Cyber Security       │
 │  🐧 Environment       → Linux                │
 │  🛡️ Platform          → Hack The Box         │
-│  🏆 Competitive       → Codeforces / LKOJ   │
+│  🏆 Competitive       → Codeforces / LKOJ    │
 │  🚀 Current project   → Drone Project        │
 │  🎨 Hobby             → Anime & Creativity   │
 └──────────────────────────────────────────────┘
@@ -68,7 +68,7 @@ I'm **Xiao Louie**, a developer & creator interested in **Cyber Security, C/C++,
 
 ---
 
-# 🖥️ Terminal
+## 🖥️ Terminal
 
 ```text
 ╭────────────────────────────────────────────────────╮
@@ -94,27 +94,32 @@ xiao@edora ~ $ ./life
 STATUS: ONLINE
 MISSION: KEEP LEARNING
 ```
+
 ---
 
 ## 🛠️ Favorite IDEs
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="Code::Blocks"/>
-</p>
+<div align="center">
 
-<p align="center">
-  💙 <b>Visual Studio Code</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🟦 <b>Code::Blocks</b>
-</p>
+<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/>
 
-> ✨ My go-to IDEs for coding, debugging and building projects.
+<br>
+
+💙 <b>Visual Studio Code</b>
+  •  
+🟦 <b>Code::Blocks</b>
+
+<br><br>
+
+<sub>My go-to IDEs for coding, debugging and building projects.</sub>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -127,8 +132,6 @@ MISSION: KEEP LEARNING
 </a>
 
 </div>
-
-<br>
 
 <details>
 <summary>🔍 <b>Click to explore projects</b></summary>
@@ -148,7 +151,7 @@ MISSION: KEEP LEARNING
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -180,7 +183,7 @@ MISSION: KEEP LEARNING
 
 ---
 
-# 🔐 Cyber Security
+## 🔐 Cyber Security
 
 <div align="center">
 
@@ -195,26 +198,26 @@ MISSION: KEEP LEARNING
 
 <br><br>
 
-<a href="https://app.hackthebox.com/users/3902808?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">
+<a href="https://app.hackthebox.com/users/3902808">
 <img src="https://www.hackthebox.com/badge/image/3902808" alt="Hack The Box Profile"/>
 </a>
 
 </div>
 
 ```text
-             ╔══════════════════════════╗
-             ║     SECURITY MODE: ON    ║
-             ╠══════════════════════════╣
-             ║  > analyze               ║
-             ║  > learn                 ║
-             ║  > build                 ║
-             ║  > secure                ║
-             ╚══════════════════════════╝
+╔══════════════════════════╗
+║     SECURITY MODE: ON    ║
+╠══════════════════════════╣
+║  > analyze               ║
+║  > learn                 ║
+║  > build                 ║
+║  > secure                ║
+╚══════════════════════════╝
 ```
 
 ---
 
-# 🏆 Competitive Programming
+## 🏆 Competitive Programming
 
 <div align="center">
 
@@ -226,89 +229,90 @@ MISSION: KEEP LEARNING
 <img src="https://img.shields.io/badge/LKOJ-k39w__haquangthang-7C3AED?style=for-the-badge"/>
 </a>
 
-<br><br>
+</div>
 
 ```text
 ┌──────────────────────────────────────────┐
 │         COMPETITIVE MODE: ON             │
 ├──────────────────────────────────────────┤
-│  🧠 Think                               │
-│  💻 Code                                │
-│  🧪 Test                                │
-│  ⚔️ Debug                               │
-│  🏆 Submit                              │
+│  🧠 Think                                │
+│  💻 Code                                 │
+│  🧪 Test                                 │
+│  ⚔️ Debug                                │
+│  🏆 Submit                               │
 └──────────────────────────────────────────┘
 ```
 
-</div>
-
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"/>
+alt="GitHub Contribution Snake"
+width="100%"/>
 
 </div>
 
-
-
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EDORA-AGENT&theme=tokyo-night&hide_border=true"
-  width="100%"
-  alt="GitHub Activity Graph"/>
+width="100%"
+alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-# 🏅 GitHub Achievements
+## 🏅 GitHub Achievements
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=EDORA-AGENT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-  width="100%"
-  alt="GitHub Trophies"/>
+width="100%"
+alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EDORA-AGENT&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=EDORA-AGENT&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDORA-AGENT&layout=compact&hide_border=true&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDORA-AGENT&layout=compact&hide_border=true&theme=tokyonight"
+alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EDORA-AGENT&hide_border=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EDORA-AGENT&hide_border=true&theme=tokyonight"
+alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 🌿 Pokémon Corner
+## 🌿 Pokémon Corner
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/908.png"
-  width="230"
-  alt="Meowscarada"/>
+width="230"
+alt="Meowscarada"/>
 
 ### 🌿 **Meowscarada**
 
-### 💚 My Favorite Pokémon
+**💚 My Favorite Pokémon**
 
 > *A little bit of code, a little bit of chaos, and a lot of Meowscarada.*
 
@@ -316,13 +320,13 @@ MISSION: KEEP LEARNING
 
 ---
 
-# 🌸 Liko
+## 🌸 Liko
 
 <div align="center">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRay_UKgF5ysHbccLOoGd8Ba8KirY13snw_3dXN0GVGugoDfizjvLki1I&s=10"
-  width="220"
-  alt="Liko"/>
+width="220"
+alt="Liko"/>
 
 ### 💜 **Liko**
 
@@ -332,7 +336,7 @@ MISSION: KEEP LEARNING
 
 ---
 
-# 🎬 Favorite Film
+## 🎬 Favorite Film
 
 <div align="center">
 
@@ -350,7 +354,7 @@ MISSION: KEEP LEARNING
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -375,7 +379,7 @@ MISSION: KEEP LEARNING
 </a>
 
 <a href="https://lkoj.edu.vn/user/k39w_haquangthang">
-<img src="https://img.shields.io/badge/LKOJ-Profile-7C3AED?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/LKOJ-Profile-7C3AED?style=for-the-badge"/>
 </a>
 
 <a href="https://discord.gg/1364423212603019345">
