@@ -257,43 +257,8 @@ width="100%"/>
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EDORA-AGENT&theme=tokyo-night&hide_border=true"
-width="100%"
-alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## 🏅 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EDORA-AGENT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-width="100%"
-alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=EDORA-AGENT&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
-alt="GitHub Stats"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDORA-AGENT&layout=compact&hide_border=true&theme=tokyonight"
-alt="Top Languages"/>
-
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EDORA-AGENT&hide_border=true&theme=tokyonight"
 alt="GitHub Streak"/>
